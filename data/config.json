@@ -1,0 +1,23 @@
+{
+  "cookiesFile": "data/cookies.json",
+  "mode": "A",
+  "commentsPerHour": 15,
+  "delayMinMs": 60000,
+  "delayMaxMs": 240000,
+  "ai": {
+    "provider": "anthropic",
+    "apiKey": "sk-5f8fa3c8b414460ba5e58afd5406951a",
+    "model": ""
+  },
+  "telegram": {
+    "botToken": "8827041816:AAGF29l_LPWdrEeIYLX25GyX9rwVsb9rtf8",
+    "chatId": "1027971626"
+  },
+  "modeA": {
+    "listIds": [
+      "2054507311503388714"
+    ],
+    "language": "auto",
+    "stylePrompt": "Chính trị → phân tích đa chiều, lập luận sắc bén, góc nhìn chiến lược. Tài chính → tư duy như trader/chuyên gia đầu tư, logic, thực tế, ưu tiên dữ liệu & tâm lý thị trường. Thể thao → bình luận như BLV/chuyên gia thể thao, giàu cảm xúc, có phân tích chiến thuật. Công nghệ → phong cách chuyên gia tech, tối ưu, cập nhật xu hướng."
+  }
+}
